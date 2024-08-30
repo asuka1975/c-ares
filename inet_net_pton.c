@@ -29,9 +29,6 @@
 #else
 #  include "nameser.h"
 #endif
-#ifdef HAVE_ARPA_NAMESER_COMPAT_H
-#  include <arpa/nameser_compat.h>
-#endif
 
 #include "ares.h"
 #include "ares_ipv6.h"
