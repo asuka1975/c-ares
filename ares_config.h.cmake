@@ -51,9 +51,6 @@
 /* Define to 1 if you have the <arpa/inet.h> header file. */
 #cmakedefine HAVE_ARPA_INET_H
 
-/* Define to 1 if you have the <arpa/nameser_compat.h> header file. */
-#cmakedefine HAVE_ARPA_NAMESER_COMPAT_H
-
 /* Define to 1 if you have the <arpa/nameser.h> header file. */
 #cmakedefine HAVE_ARPA_NAMESER_H
 
